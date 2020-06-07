@@ -1,2 +1,2 @@
-# Sampling based Educational Data Mining
+# Evaluating Performance of College Students based on various Data Mining Techniques
  The project's aim is to analyza the performnace of students of a college, based on various economical, social and demographical factors. The dataset contains 321 records of students from Vellore Institute of Technology, India. In this project, we have used various sampling techniques and various classifiers. We also experimented by applying PCA (Principal Comppnent Analysis) on the dataset
